@@ -1,2 +1,2 @@
-# ZipDemo
-ZipDemo 
+# ZipCourseDemo
+ZipCourseDemo 
